@@ -1,0 +1,29 @@
+
+<div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        
+        <div class="table-responsive" align="center">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th width="20%"><h4>ID</h4></th>
+                        <th width="40%">Name</th>
+                        <th width="20%">Play</th>
+                        <th width="20%">Rating</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let mu of _music">
+                        <td>{{mu.id}}</td>
+                        <td>{{mu.name}}</td>
+                        <td><a [routerLink]="['/Music',mu.id]"><img [src]="mu.isrc" class="img-responsive"/></a></td>
+                        <td><rate
+                            [rating]=mu.rating
+                            ></rate></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        
+    </div>
+</div>

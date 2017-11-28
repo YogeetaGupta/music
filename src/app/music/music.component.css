@@ -1,0 +1,11 @@
+table{
+    text-align: center;
+    background-image: url("./../../assets/bg4.jpg");
+}
+table thead{
+    background-color:rgb(27, 43, 59);
+}
+table img{
+    height: 50px;
+    width:50px;
+}

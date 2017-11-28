@@ -1,0 +1,92 @@
+[
+        {
+            "id":1,
+            "name":"Chalti Hai Kya 9 Se 12 (DJMirch.Com).mp3",
+            "asrc":"./../../assets/Chalti Hai Kya 9 Se 12 (DJMirch.Com).mp3",
+            "isrc":"./../../assets/play.png",
+            "ogg":"music.ogg",
+            "src":"./../assets/mike.jpg",
+            "rating":5
+        },
+        {
+            "id":2,
+            "name":"Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "asrc":"./../../assets/07 - Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "isrc":"./../../assets/play.png",
+            "ogg":"music.ogg",
+            "src":"./../assets/mike.jpg",
+            "rating":5
+        },
+        {
+            "id":3,
+            "name":"Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "asrc":"./../../assets/07 - Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "isrc":"./../../assets/play.png",
+            "ogg":"music.ogg",
+            "src":"./../assets/mike.jpg",
+            "rating":5
+        },
+        {
+            "id":4,
+            "name":"Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "asrc":"./../../assets/07 - Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "isrc":"./../../assets/play.png",
+            "ogg":"music.ogg",
+            "src":"./../assets/mike.jpg",
+            "rating":5
+        },
+        {
+            "id":5,
+            "name":"Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "asrc":"./../../assets/07 - Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "isrc":"./../../assets/play.png",
+            "ogg":"music.ogg",
+            "src":"./../assets/mike.jpg",
+            "rating":5
+        },
+        {
+            "id":6,
+            "name":"Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "asrc":"./../../assets/07 - Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "isrc":"./../../assets/play.png",
+            "ogg":"music.ogg",
+            "src":"./../assets/mike.jpg",
+            "rating":5
+        },
+        {
+            "id":7,
+            "name":"Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "asrc":"./../../assets/07 - Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "isrc":"./../../assets/play.png",
+            "ogg":"music.ogg",
+            "src":"./../assets/mike.jpg",
+            "rating":5
+        },
+        {
+            "id":8,
+            "name":"Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "asrc":"./../../assets/07 - Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "isrc":"./../../assets/play.png",
+            "ogg":"music.ogg",
+            "src":"./../assets/mike.jpg",
+            "rating":5
+        },
+        {
+            "id":9,
+            "name":"Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "asrc":"./../../assets/07 - Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "isrc":"./../../assets/play.png",
+            "ogg":"music.ogg",
+            "src":"./../assets/mike.jpg",
+            "rating":5
+        },
+        {
+            "id":10,
+            "name":"Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "asrc":"./../../assets/07 - Main Rang Sharbaton Ka (Reprise Version) (DJMirch.Com).mp3",
+            "isrc":"./../../assets/play.png",
+            "ogg":"music.ogg",
+            "src":"./../assets/mike.jpg",
+            "rating":5
+        }
+    ]
